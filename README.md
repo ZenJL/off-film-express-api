@@ -17,6 +17,7 @@ $ npm run dev
 ```
 
 ## API
+https://zenl-auth-express-api.herokuapp.com/
 
 ## USERS
 
